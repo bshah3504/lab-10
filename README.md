@@ -14,7 +14,7 @@ Clone the Repository:
 Clone the Git repository to your local machine using the following command:
 bash
 Copy code
-git clone https://github.com/your-username/machine-learning-assignment.git
+git clone(https://github.com/bshah3504/lab-10.git)
 Navigate to the Project Directory:
 
 Change your current working directory to the project directory:
